@@ -16,7 +16,7 @@ O conjunto de dados utilizado neste projeto contém informações sobre os impac
 - **Rendimento da Colheita (Toneladas/Hectare)**: Rendimento médio da colheita por hectare.
 - **Uso de Fertilizantes (Kg/Hectare)**: Quantidade de fertilizantes utilizados por hectare.
 
-> **Nota**: Esta é uma descrição geral das variáveis. Certifique-se de ajustar conforme os dados específicos do seu conjunto de dados.
+
 
 ## Objetivos do Projeto
 
